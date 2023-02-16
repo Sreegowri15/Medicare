@@ -25,7 +25,7 @@ This is a web based application developed for health related website in india
 
 ![Screenshot (110)](https://user-images.githubusercontent.com/85351710/219382799-397477bd-d39a-47af-8ddd-33f1bbed7b43.png)
 
-- Healthy bot
+- Health bot
 
 ![Screenshot (111)](https://user-images.githubusercontent.com/85351710/219383030-d10c628b-893e-499f-b0d8-427d94bf327c.png)
 
