@@ -22,7 +22,12 @@ This is a web based application developed for health related website in india
 
 ## Azure technologies used for Project
 - Static web apps
+
+![Screenshot (110)](https://user-images.githubusercontent.com/85351710/219382799-397477bd-d39a-47af-8ddd-33f1bbed7b43.png)
+
 - Healthy bot
+
+![Screenshot (111)](https://user-images.githubusercontent.com/85351710/219383030-d10c628b-893e-499f-b0d8-427d94bf327c.png)
 
 
 ## Screenshots
@@ -40,6 +45,8 @@ This is a web based application developed for health related website in india
 
 ![Screenshot (93)](https://user-images.githubusercontent.com/85351710/219001069-7dff2f1e-c580-4aba-8384-434f66314b07.png)
 
+
+![Screenshot (112)](https://user-images.githubusercontent.com/85351710/219383953-9adae566-97b6-48d6-a3a5-7a3754b257b3.png)
 
 
 
