@@ -7,7 +7,7 @@ This is a web based application developed for health related website in india
 
 **Project Link** - https://lemon-ground-0d3f97210.2.azurestaticapps.net
 
-**Project demo video link** - 
+**Project demo video link** - https://youtu.be/vy2EJVuW7c4
 
 
 ## Features and Functionalities
